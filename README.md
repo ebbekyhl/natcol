@@ -7,3 +7,5 @@ This repository covers how to visualize national specific data by coloring the c
 ![fig](gas_demand.png)
 
 The script relies on the [Basemap](https://basemaptutorial.readthedocs.io/en/latest/first_map.html) module and the country shapefiles acquired from [gadm.org/](https://www.gadm.org/download_country_v3.html). Find the `environment.yml` for module versions used.
+
+The current version of this repository only includes the coloring of the country shapefiles while the overlay circles are yet to be included. This will be included at a later stage or upon request. 
